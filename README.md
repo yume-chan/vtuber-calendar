@@ -12,7 +12,7 @@ As the .ics file is read-only, there are two ways you can contribute.
 
 ## If you have any suggestions
 
-Please [file an issue](https://github.com/yume-chan/vtuber-calendar/issues/new).
+Please [file an issue](https://github.com/yume-chan/vtuber-calendar/issues/new/choose).
 
 ## If you want to help me maintaining this calendar
 
