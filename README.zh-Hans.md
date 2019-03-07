@@ -8,9 +8,8 @@
 
 订阅[此 ICS 连接](https://outlook.live.com/owa//calendar/00000000-0000-0000-0000-000000000000/ebe488fe-d22e-4d53-8db6-249d726f30b0/cid-3B22DB901DF4622D/calendar.ics)
 
-Outlook.com 用户: [在 Outlook.com 中导入或订阅日历](https://support.office.com/zh-cn/article/import-or-subscribe-to-a-calendar-in-outlook-com-cff1429c-5af6-41ec-a5b4-74f2c278e98c)
-
-其它程序用户: 请查看日历提供商的帮助文档
+* Outlook.com 用户: [在 Outlook.com 中导入或订阅日历](https://support.office.com/zh-cn/article/import-or-subscribe-to-a-calendar-in-outlook-com-cff1429c-5af6-41ec-a5b4-74f2c278e98c)
+* 其它程序用户: 请查看日历提供商的帮助文档
 
 # 贡献
 
