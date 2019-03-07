@@ -1,4 +1,4 @@
-[英文](README.md)
+[English](README.md)
 
 # 在线查看
 
